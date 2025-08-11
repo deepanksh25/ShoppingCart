@@ -40,10 +40,10 @@ Users can browse products, add them to a cart, view a cart summary, and remove i
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page] <img width="940" height="882" alt="image" src="https://github.com/user-attachments/assets/42e3cef1-a766-4e50-a23a-92677db5e486" />
+<img width="940" height="882" alt="image" src="https://github.com/user-attachments/assets/42e3cef1-a766-4e50-a23a-92677db5e486" />
 
 ### 🛒 Cart Page
-![Cart Page] <img width="1233" height="838" alt="image" src="https://github.com/user-attachments/assets/9f4ed5bc-bfff-47b3-a94d-1b60dd2cf345" />
+<img width="1233" height="838" alt="image" src="https://github.com/user-attachments/assets/9f4ed5bc-bfff-47b3-a94d-1b60dd2cf345" />
 
 ---
 
